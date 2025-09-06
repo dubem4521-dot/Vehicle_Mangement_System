@@ -93,4 +93,3 @@ The **Vehicle Rental System** is a Java-based desktop application built using **
 ## 🧑‍💻 Contributors
 
 - Built by [Maxwell Dube]
-   [git clone https://github.com/your-username/vehicle-rental-system.git](https://github.com/MaxwellDube/Vehicle_Management_System_Java_-_SQL.git)
